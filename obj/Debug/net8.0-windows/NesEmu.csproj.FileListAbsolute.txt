@@ -1,0 +1,15 @@
+C:\Users\mark_\OneDrive\Desktop\New folder\files\bin\Debug\net8.0-windows\NesEmu.exe
+C:\Users\mark_\OneDrive\Desktop\New folder\files\bin\Debug\net8.0-windows\NesEmu.deps.json
+C:\Users\mark_\OneDrive\Desktop\New folder\files\bin\Debug\net8.0-windows\NesEmu.runtimeconfig.json
+C:\Users\mark_\OneDrive\Desktop\New folder\files\bin\Debug\net8.0-windows\NesEmu.dll
+C:\Users\mark_\OneDrive\Desktop\New folder\files\bin\Debug\net8.0-windows\NesEmu.pdb
+C:\Users\mark_\OneDrive\Desktop\New folder\files\obj\Debug\net8.0-windows\NesEmu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mark_\OneDrive\Desktop\New folder\files\obj\Debug\net8.0-windows\NesEmu.AssemblyInfoInputs.cache
+C:\Users\mark_\OneDrive\Desktop\New folder\files\obj\Debug\net8.0-windows\NesEmu.AssemblyInfo.cs
+C:\Users\mark_\OneDrive\Desktop\New folder\files\obj\Debug\net8.0-windows\NesEmu.csproj.CoreCompileInputs.cache
+C:\Users\mark_\OneDrive\Desktop\New folder\files\obj\Debug\net8.0-windows\NesEmu.dll
+C:\Users\mark_\OneDrive\Desktop\New folder\files\obj\Debug\net8.0-windows\refint\NesEmu.dll
+C:\Users\mark_\OneDrive\Desktop\New folder\files\obj\Debug\net8.0-windows\NesEmu.pdb
+C:\Users\mark_\OneDrive\Desktop\New folder\files\obj\Debug\net8.0-windows\NesEmu.genruntimeconfig.cache
+C:\Users\mark_\OneDrive\Desktop\New folder\files\obj\Debug\net8.0-windows\ref\NesEmu.dll
+C:\Users\mark_\OneDrive\Desktop\New folder\files\obj\Debug\net8.0-windows\NesEmu.csproj.Up2Date

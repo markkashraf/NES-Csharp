@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mark_\\OneDrive\\Desktop\\New folder\\files\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFC1884-182E-FC73-D547-6BDF0BB0BB49}|NesEmu.csproj|c:\\users\\mark_\\onedrive\\desktop\\new folder\\files\\ppu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFC1884-182E-FC73-D547-6BDF0BB0BB49}|NesEmu.csproj|solutionrelative:ppu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFC1884-182E-FC73-D547-6BDF0BB0BB49}|NesEmu.csproj|c:\\users\\mark_\\onedrive\\desktop\\new folder\\files\\nes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFC1884-182E-FC73-D547-6BDF0BB0BB49}|NesEmu.csproj|solutionrelative:nes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ppu.cs",
+              "DocumentMoniker": "C:\\Users\\mark_\\OneDrive\\Desktop\\New folder\\files\\Ppu.cs",
+              "RelativeDocumentMoniker": "Ppu.cs",
+              "ToolTip": "C:\\Users\\mark_\\OneDrive\\Desktop\\New folder\\files\\Ppu.cs*",
+              "RelativeToolTip": "Ppu.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T11:12:04.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nes.cs",
+              "DocumentMoniker": "C:\\Users\\mark_\\OneDrive\\Desktop\\New folder\\files\\Nes.cs",
+              "RelativeDocumentMoniker": "Nes.cs",
+              "ToolTip": "C:\\Users\\mark_\\OneDrive\\Desktop\\New folder\\files\\Nes.cs*",
+              "RelativeToolTip": "Nes.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T11:12:12.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
